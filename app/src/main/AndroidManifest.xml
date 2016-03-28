@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.algonquincollege.fan00036.itunesmovietrailers" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- TODO: grant these permissions -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.algonquincollege.fan00036.itunesmovietrailers.MovieListActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.algonquincollege.fan00036.itunesmovietrailers.LinkActivity"
+            android:label="@string/title_item_detail"
+            android:parentActivityName="com.algonquincollege.fan00036.itunesmovietrailers.MovieListActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.algonquincollege.fan00036.itunesmovietrailers.MovieListActivity" />
+        </activity>
+    </application>
+
+</manifest>

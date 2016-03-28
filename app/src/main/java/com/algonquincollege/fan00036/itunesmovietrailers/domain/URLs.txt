@@ -1,0 +1,81 @@
+iTunes Movie Trailers RSS Feed
+==============================
+
+http://movietrailers.apple.com/movies/independent/chiraq/chiraq-tlr1_a720p.m4v
+
+clp vs clip1 vs clp1
+http://movietrailers.apple.com/movies/independent/mustang/mustang-clip1_a720p.m4v?width=1280&height=544
+http://movietrailers.apple.com/movies/independent/criminalactivities/criminalactivities-clp_a720p.m4v?width=1280&height=544
+http://movietrailers.apple.com/movies/independent/criminalactivities/criminalactivities-tlr1_a720p.m4v?width=1280&height=544
+
+http://movietrailers.apple.com/movies/paramount/zoolander2/zoolander2-tlr1_a720p.m4v?width=1280&height=544
+
+==== RSS Feed: CANADA ========
+//TODO: verify
+MovieItem[ t: Hitchcock Truffaut - Trailer l: http://trailers.apple.com/ca/pnwpictures/hitchcocktruffaut/ ]
+http://movietrailers.apple.com/ca_movies/pnp/hitchcocktruffaut/hitchcocktruffaut-ca-tlr1_i320.m4v
+
+MovieItem[ t: Rams - Trailer l: http://trailers.apple.com/ca/mongrel/rams/ ]
+http://movietrailers.apple.com/ca_movies/mongrel/rams/rams-ca-tlr1_i320.m4v
+
+MovieItem[ t: 45 Years - Trailer l: http://trailers.apple.com/ca/mongrel/45years/ ]
+http://movietrailers.apple.com/ca_movies/mongrel/45years/45years-ca-tlr1_i320.m4v
+
+MovieItem[ t: Midnight Special - Trailer l: http://trailers.apple.com/ca/wb/midnightspecial/ ]
+http://movietrailers.apple.com/ca_movies/wb/midnightspecial/midnightspecial-ca-tlr1_i320.m4v
+
+//TODO: Trailer 2 and Trailer 1
+MovieItem[ t: Concussion - Trailer 2 l: http://trailers.apple.com/ca/sony_pictures/concussion/ ]
+http://movietrailers.apple.com/ca_movies/sonypictures/concussion/concussion-ca-tlr1_i320.m4v
+http://movietrailers.apple.com/ca_movies/sonypictures/concussion/concussion-ca-tlr2_i320.m4v
+
+MovieItem[ t: The Huntsman Winter's War - Trailer l: http://trailers.apple.com/ca/universal/thehuntsmanwinterswar/ ]
+http://movietrailers.apple.com/ca_movies/universal/thehuntsmanwinterswar/thehuntsmanwinterswar-ca-tlr1_i320.m4v
+
+MovieItem[ t: Mustang - Trailer l: http://trailers.apple.com/ca/mongrel/mustang/ ]
+http://movietrailers.apple.com/ca_movies/mongrel/mustang/mustang-ca-tlr1_i320.m4v
+
+//TODO: Featurette, Clip, Trailer
+MovieItem[ t: Entertainment - Featurette l: http://trailers.apple.com/ca/vsc/entertainment/ ]
+http://movietrailers.apple.com/ca_movies/vsc/entertainment/entertainment-fte1_i320.m4v
+http://movietrailers.apple.com/ca_movies/vsc/entertainment/entertainment-ca-tlr1v2_i320.m4v
+
+MovieItem[ t: Entertainment - Clip l: http://trailers.apple.com/ca/vsc/entertainment/ ]
+http://movietrailers.apple.com/ca_movies/vsc/entertainment/entertainment-clp1_i320.m4v
+
+MovieItem[ t: Zoolander 2 - Trailer l: http://trailers.apple.com/ca/paramount/zoolander2/ ]
+http://movietrailers.apple.com/ca_movies/paramount/zoolander2/zoolander2-usca-tl1_i320.m4v
+
+MovieItem[ t: Zoolander 2 - Trailer 2 l: http://trailers.apple.com/ca/paramount/zoolander2/ ]
+http://movietrailers.apple.com/ca_movies/paramount/zoolander2/zoolander2-ca-tlr1_i320.m4v
+
+//TODO: fix
+MovieItem[ t: Noma: My Perfect Storm - Trailer l: http://trailers.apple.com/ca/vsc/nomamyperfectstorm/ ]
+http://movietrailers.apple.com/ca_movies/vsc/nomamyperfectstorm/noma-ca-tlr1_i320.m4v
+
+MovieItem[ t: The Lady in the Car with Glasses and a Gun - Trailer l: http://trailers.apple.com/ca/vsc/theladyinthecarwithglassesandagun/ ]
+http://movietrailers.apple.com/ca_movies/vsc/theladyinthecarwithglassesandagun/ladyinthecarwithglassesandagun-tlr1_i320.m4v
+
+MovieItem[ t: Warcraft - Trailer l: http://trailers.apple.com/ca/universal/warcraft/ ]
+http://movietrailers.apple.com/ca_movies/universal/warcraft/warcraft-ca-tlr1_i320.m4v
+
+MovieItem[ t: The Lady in the Van - Trailer l: http://trailers.apple.com/ca/mongrel/theladyinthevan/ ]
+http://movietrailers.apple.com/ca_movies/mongrel/theladyinthevan/theladyinthevan-ca-tlr1_i320.m4v
+
+//TODO: fix
+MovieItem[ t: Mission: Impossible Rogue Nation - Featurette l: http://trailers.apple.com/ca/paramount/missionimpossibleroguenation/ ]
+http://movietrailers.apple.com/ca_movies/paramount/missionimpossibleroguenation/missionimpossible-planestuntroundtable_i320.m4v
+
+MovieItem[ t: Gods of Egypt - Trailer l: http://trailers.apple.com/ca/entertainmentone/godsofegypt/ ]
+http://movietrailers.apple.com/ca_movies/eone/godsofegypt/godsofegypt-ca-tlr1_i320.m4v
+
+//TODO: TV Spot
+MovieItem[ t: Star Wars: The Force Awakens - TV Spot l: http://trailers.apple.com/ca/lucasfilm/starwarstheforceawakens/ ]
+http://movietrailers.apple.com/ca_movies/lucasfilm/starwars/starwars-tvspot_i320.m4v
+
+//TODO: fix
+MovieItem[ t: The Big Short - Featurette l: http://trailers.apple.com/ca/paramount/thebigshort/ ]
+http://movietrailers.apple.com/ca_movies/paramount/thebigshort/thebigshort-adammckaysizzle_i320.m4v
+
+MovieItem[ t: The Hateful Eight - Trailer 2 l: http://trailers.apple.com/ca/entertainmentone/thehatefuleight/ ]
+http://movietrailers.apple.com/ca_movies/eone/thehatefuleight/thehatefuleight-ca-tlr3_i320.m4v

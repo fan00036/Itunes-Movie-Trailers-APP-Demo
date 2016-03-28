@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:background="#000">
+
+    <ImageView
+        android:id="@+id/poster"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="6dp"
+        android:contentDescription="poster"
+        android:src="@drawable/market"
+        />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="26dip"
+        android:id="@+id/pub_date"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/poster"
+        android:ellipsize="marquee"
+        android:singleLine="true"
+        android:textSize="12sp"
+        android:inputType="date"
+        android:textColor="#fff" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/title"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignWithParentIfMissing="true"
+        android:layout_toEndOf="@+id/poster"
+        android:gravity="center_vertical"
+        android:textSize="16sp"
+        android:textColor="#fff" />
+
+</RelativeLayout>

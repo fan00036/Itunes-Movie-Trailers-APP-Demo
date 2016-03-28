@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">iTunes Movie Trailers</string>
+    <string name="action_about">About</string>
+    <string name="action_sort">Sort</string>
+    <string name="author">Jinhong Fan (fan00036)</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="action_sort_title">Title</string>
+    <string name="action_sort_pub_date">Date</string>
+    <string name="action_unsorted">Default</string>
+</resources>
